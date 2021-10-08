@@ -1168,6 +1168,16 @@
   height: 689px;
   margin-top: 25px;
   margin-bottom: 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 665px;
+  }
+
+  .u-section-8 .u-image-1 {
+    height: 327px;
+  }
 }.u-section-9 .u-sheet-1 {
   min-height: 110px;
 }

@@ -1,0 +1,8 @@
+git init
+ git add .
+ git config user.email "you@example.com"
+ git config user.name "Your Name"
+ git commit -m "mt10"
+ git remote add github https://github.com/TAFESH10/mt10.git
+ git remote -v
+ git push -f github main
