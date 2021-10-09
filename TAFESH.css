@@ -1247,8 +1247,8 @@
 
 .u-section-10 .u-social-icons-1 {
   min-height: 16px;
-  width: 299px;
-  min-width: 193px;
+  width: 129px;
+  min-width: 75px;
   white-space: nowrap;
   animation-duration: 1000ms;
   height: 43px;
@@ -1261,21 +1261,6 @@
 }
 
 .u-section-10 .u-icon-2 {
-  color: rgb(197, 54, 164) !important;
-}
-
-.u-section-10 .u-icon-3 {
-  color: rgb(59, 89, 152) !important;
-}
-
-.u-section-10 .u-icon-4 {
   height: 100%;
   color: rgb(219, 83, 75) !important;
-}
-
-@media (max-width: 1199px) {
-  .u-section-10 .u-social-icons-1 {
-    height: 50px;
-    width: 329px;
-  }
 }
