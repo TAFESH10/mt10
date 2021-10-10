@@ -829,8 +829,12 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-4 {
+    min-height: auto;
+  }
+
   .u-section-4 .u-sheet-1 {
-    min-height: 71px;
+    min-height: 72px;
   }
 
   .u-section-4 .u-text-1 {
@@ -1259,4 +1263,15 @@
 .u-section-10 .u-icon-2 {
   height: 100%;
   color: rgb(219, 83, 75) !important;
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 63px;
+  }
+
+  .u-section-10 .u-social-icons-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 }
