@@ -6,3 +6,7 @@ git init
  git remote add github https://github.com/TAFESH10/mt10.git
  git remote -v
  git push -f github main
+
+
+
+https://tafesh10.github.io/mt10/
